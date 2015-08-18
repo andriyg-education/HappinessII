@@ -14,7 +14,7 @@ let EYE_X_DISP: CGFloat = 0.35
 let EYE_RADIUS: CGFloat = 0.10
 let MOUTH_Y_DISP: CGFloat = 0.35
 let MOUTH_HALF_WITH: CGFloat = 0.50
-let MOUNT_MAX_DOWN: CGFloat = 0.20
+let MOUNT_MAX_DOWN: CGFloat = 0.30
 let CONFUSION_MAX_DISP: CGFloat = 0.50
 
 let TWO_PI = CGFloat(2 * M_PI)
